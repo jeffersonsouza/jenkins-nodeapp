@@ -1,0 +1,11 @@
+{
+    "name": "todo-app",
+    "version": "0.0.0",
+    "license": "MIT",
+    "scripts": {
+        "start": "ng serve"
+    },
+    "dependencies": {
+        "express": "~4.14"
+    }
+}
